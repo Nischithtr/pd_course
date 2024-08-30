@@ -37,3 +37,15 @@ Synthesis:
 Observation:
   1. Chip area: 147712.92u
      ![image](https://github.com/user-attachments/assets/04c16645-4af3-4a08-90c3-77ce7e7c020b)
+  2. Flop Ratio:
+     ![image](https://github.com/user-attachments/assets/6651220e-61b4-46c4-86b1-fa269f4572f5)
+     Flop ratio = 1613/14876*100 = 10.84%
+
+Output: 
+  1. Gate level netlist
+     ![image](https://github.com/user-attachments/assets/dc4f47a6-2d97-4650-8f06-1662a7b2a3af)
+  2. Pre-placement timing report:
+     ![image](https://github.com/user-attachments/assets/9ee3caf4-24bd-4762-b888-df08bbce4002)
+
+
+  
