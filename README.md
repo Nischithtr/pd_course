@@ -47,5 +47,33 @@ Output:
   2. Pre-placement timing report:
      ![image](https://github.com/user-attachments/assets/9ee3caf4-24bd-4762-b888-df08bbce4002)
 
+Floorplan:
+
+Inputs:
+  1. Config.tcl:
+     ![image](https://github.com/user-attachments/assets/bfbfffcb-d7d0-496e-88c2-9a0d9f740ba8)
+     1. Equidistant IO placement
+     2. IO vertical layer is metal2, IO horizontal layer is metal3
+   2. sky130A_sky130_fd_sc_hd_config.tcl:
+      ![image](https://github.com/user-attachments/assets/406ab7d6-917b-4e1e-97f9-e309d2c8591d)
+      1. Core utilization: 35%
+
+Results:
+  1. Die area:
+     ![image](https://github.com/user-attachments/assets/f50d64e0-5597-4274-a301-ca5247d30660)
+     Area = (660685-0)/1000 * (671405-0)/1000 = 443587u
+  2. Equidistant IO pins:
+     ![image](https://github.com/user-attachments/assets/3a04e4ae-3397-47cb-932b-f7831a2f546c)
+  3. Horizontal pins on metal3, vertical pins on metal2
+     ![image](https://github.com/user-attachments/assets/abb15dcd-c5fd-4b79-b927-04159c8ff65e)
+  4. Standard cells on lower left:
+     ![image](https://github.com/user-attachments/assets/5fc51582-7e51-4d2b-900a-ba26f2599811)
+  5. Tapcell spacing is 13u:
+     ![image](https://github.com/user-attachments/assets/ae87663e-4bc1-4829-aebe-6ff8316b092a)
+  
+
+
+
+
 
   
