@@ -70,6 +70,17 @@ Results:
      ![image](https://github.com/user-attachments/assets/5fc51582-7e51-4d2b-900a-ba26f2599811)
   5. Tapcell spacing is 13u:
      ![image](https://github.com/user-attachments/assets/ae87663e-4bc1-4829-aebe-6ff8316b092a)
+  6. IO placement with FP_IO_MODE is set to zero:
+     ![image](https://github.com/user-attachments/assets/9480e908-ae43-427e-b1de-2673ed862b67)
+
+Placement:
+
+Results:
+  1. Def after placement:
+  2.   ![image](https://github.com/user-attachments/assets/25026d16-29fc-429a-891b-2094a2d10196)
+
+
+  
   
 
 
