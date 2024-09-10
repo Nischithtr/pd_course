@@ -79,6 +79,57 @@ Results:
   1. Def after placement:
   2.   ![image](https://github.com/user-attachments/assets/25026d16-29fc-429a-891b-2094a2d10196)
 
+Standard Cell Charactrerization:
+
+Inverter layout: ![image](https://github.com/user-attachments/assets/7859e8f7-62a9-41ec-803f-efe050cb25aa)
+Nmos: ndiff intersection with poly: ![image](https://github.com/user-attachments/assets/90ba446b-b6a5-4753-bd55-8c5d91f6f07f)
+Pmos: pdiff intersection with poly: ![image](https://github.com/user-attachments/assets/cd8aa44a-4584-4055-a55c-1a8d146e7bca)
+Drain connectivity to Y: ![image](https://github.com/user-attachments/assets/ded1511a-7fe4-4363-9eb3-a8c6d410c826)
+Pmos source connectivity to VDD: ![image](https://github.com/user-attachments/assets/3e47acf0-659e-422a-8cf6-5e2abdf59077)
+Nmos source connectivity to VSS: ![image](https://github.com/user-attachments/assets/dceb4e02-3fc0-4bb5-8e11-914c54113a90)
+DRC violation when we delete layers: ![image](https://github.com/user-attachments/assets/26441748-9419-4578-aa58-9aae71a2316b)
+DRC error: ![image](https://github.com/user-attachments/assets/17b9f4f8-713b-4f5a-b7b4-022fadf7641c)
+extract all --> .ext file:
+  ![image](https://github.com/user-attachments/assets/4a475ba7-b5b0-4fec-ab87-a21e28e5bdf5)
+ext2spice --> .spice file:
+  ![image](https://github.com/user-attachments/assets/9f888b3d-226a-4a89-8ed1-1010ebc0b9d4)
+Spice model: ![image](https://github.com/user-attachments/assets/48c1e836-881a-4302-9fd8-05620159d490)
+Input spice to ngspice: ![image](https://github.com/user-attachments/assets/8f92400c-739b-41c2-a667-cdc6ec9ef870)
+ngspice run: ![image](https://github.com/user-attachments/assets/b64f9827-9736-4c7d-aa3a-7e076551f3cd)
+Input vs output: ![image](https://github.com/user-attachments/assets/3933e4a2-ce65-4879-8327-df55404bc625)
+  1. Rise transition time:
+     ![image](https://github.com/user-attachments/assets/688795c5-f6b8-43f7-83c2-857357e6dbfa)
+     2.19042e-9 - 2.13018e-9 = 60.24 ps
+  2. Fall transition time:
+     4.09173e-9 - 4.04881e-9 = 42.92 ps
+  3. Rise delay:
+     2.15209e-9 - 2.105e-9 =  47.09 ps
+  4. Fall delay:
+     4.07293e-9 - 4.05016e-9 = 22.77 ps    
+
+DRC tests:
+
+met3 design violations: ![image](https://github.com/user-attachments/assets/0f80c942-a544-4895-b119-0baa1441f786)
+3.6 design error definition: ![image](https://github.com/user-attachments/assets/c7b95593-8868-4c87-8177-bc06fa6643e8)
+DRC reason using drc why: ![image](https://github.com/user-attachments/assets/0ee5dab4-746d-46c2-b6ad-5b325ed79a06)
+Poly spacing issue: ![image](https://github.com/user-attachments/assets/d674cce7-0720-4a54-b606-85f7946f9493)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   
