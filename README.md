@@ -127,6 +127,15 @@ Creating lef: ![image](https://github.com/user-attachments/assets/c3c447e2-be47-
 Lef file: ![image](https://github.com/user-attachments/assets/bbfce380-48f6-4e50-8135-b1127dcf69f2)
 
 The characterized cell is included by the tool: ![image](https://github.com/user-attachments/assets/8d3870aa-3854-4eca-aa32-dc349753b893)
+Negative slack: ![image](https://github.com/user-attachments/assets/ec475fde-3cc4-45fa-bb8b-1c78a48d7e97)
+Synth strategy: ![image](https://github.com/user-attachments/assets/4744b078-1b11-4427-a382-329828491c0f)
+Fixing slack with DELAY 0 strategy: ![image](https://github.com/user-attachments/assets/2e890617-04c2-47ce-b85b-d53c598cfde2)
+Macro vsdinv included after floorplan: ![image](https://github.com/user-attachments/assets/85033f62-6b4b-4fc0-91e8-dba8fdd486e2)
+vsdinv included in def post placement: ![image](https://github.com/user-attachments/assets/ac343176-9e58-4f6f-bd5a-d5026605237e)
+
+
+
+
 
 
 
