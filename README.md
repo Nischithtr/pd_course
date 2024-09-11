@@ -116,6 +116,17 @@ Poly spacing issue: ![image](https://github.com/user-attachments/assets/d674cce7
 
 
 
+Timing modeling using delay tables:
+
+Tracks info: ![image](https://github.com/user-attachments/assets/2db1084a-2c29-46f9-9e1b-7e92e23ec6d0)
+![image](https://github.com/user-attachments/assets/3f477a30-80fd-489e-8748-3796ceca2f80)
+Width: 3 units
+Height: 8 units
+Defining ports in magic: ![image](https://github.com/user-attachments/assets/6cf26d2b-34ff-49fa-ba45-14aa90924545)
+Creating lef: ![image](https://github.com/user-attachments/assets/c3c447e2-be47-42df-8631-2cdd2127f494)
+Lef file: ![image](https://github.com/user-attachments/assets/bbfce380-48f6-4e50-8135-b1127dcf69f2)
+
+The characterized cell is included by the tool: ![image](https://github.com/user-attachments/assets/8d3870aa-3854-4eca-aa32-dc349753b893)
 
 
 
