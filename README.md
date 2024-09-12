@@ -134,6 +134,15 @@ Macro vsdinv included after floorplan: ![image](https://github.com/user-attachme
 vsdinv included in def post placement: ![image](https://github.com/user-attachments/assets/ac343176-9e58-4f6f-bd5a-d5026605237e)
 
 
+STA:
+
+STA conf: ![image](https://github.com/user-attachments/assets/31e31876-58be-4ed1-9b32-4a4310504c3e)
+SDC: ![image](https://github.com/user-attachments/assets/52fa8cbc-d356-42d7-8454-8874d551d369)
+Zero slew: ![image](https://github.com/user-attachments/assets/678b7476-1a80-4c5e-9484-1365c8a3b03d)
+
+
+
+
 
 
 
