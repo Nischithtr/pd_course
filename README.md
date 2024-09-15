@@ -140,6 +140,23 @@ STA conf: ![image](https://github.com/user-attachments/assets/31e31876-58be-4ed1
 SDC: ![image](https://github.com/user-attachments/assets/52fa8cbc-d356-42d7-8454-8874d551d369)
 Zero slew: ![image](https://github.com/user-attachments/assets/678b7476-1a80-4c5e-9484-1365c8a3b03d)
 
+CTS:
+
+CTS inputs: ![image](https://github.com/user-attachments/assets/9d47c1ae-477f-4478-bb64-e23176887fee)
+CTS run: ![image](https://github.com/user-attachments/assets/84c3ba94-ce71-44b4-831e-fa9bd7d673ff)
+Post CTS def: ![image](https://github.com/user-attachments/assets/6039e1eb-88e3-4d57-b9d7-0a411873a495)
+Post CTS STA hold: ![image](https://github.com/user-attachments/assets/504c809c-b161-4095-b235-cf8cc7d99c48)
+Post CTS STA setup: ![image](https://github.com/user-attachments/assets/c1dc8b56-a210-43c4-8212-7e225e64cfd1)
+
+CTS without drive strength 1 buffer: ![image](https://github.com/user-attachments/assets/0d3e8a5a-32d9-4e25-84e3-a1114dcedec3)
+Post CTS STA hold: ![image](https://github.com/user-attachments/assets/36a4be61-ae26-4ada-8b05-a6d23559c428)
+Post CTS STA setup: ![image](https://github.com/user-attachments/assets/5b5738a2-f772-43f4-a565-e09630b53720)
+Clock skew: ![image](https://github.com/user-attachments/assets/f08dd4d0-61e6-42a4-9a50-b67d391da0f1)
+
+
+
+
+
 
 
 
