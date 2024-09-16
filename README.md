@@ -155,6 +155,15 @@ Clock skew: ![image](https://github.com/user-attachments/assets/f08dd4d0-61e6-42
 
 
 
+Final steps:
+
+Pdn generation: ![image](https://github.com/user-attachments/assets/e9892287-8f6a-404c-9538-88f3f91d447e)
+Routing: Zero violation after last iteration:
+![image](https://github.com/user-attachments/assets/d01c07f7-3784-4dc6-b9b8-4a1efb99cfe9)
+Routing guides: ![image](https://github.com/user-attachments/assets/c8a5d667-e1da-4a92-9ceb-6362e7afd581)
+SPEF file: ![image](https://github.com/user-attachments/assets/67c35bcc-40cd-4fed-841d-e6cb096e0de4)
+
+
 
 
 
